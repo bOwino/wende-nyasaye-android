@@ -1595,6 +1595,1267 @@ function Content({ navigation }) {
       chorusThree:
         "Yiera,Yesu, mond' atini, Kata ni jomwa; \nOk anyal gimoro kenda, Taya saa duto.",
     },
+        {
+      id: 81,
+      title: "81 – Tiuru, Yesu Biro ",
+      author: "Lowell Massion",
+    },
+    {
+      id: 82,
+      title: "82 – Ka Manade Ma Ruoth Luongae",
+      author: "Mary Brown",
+    },
+    {
+      id: 83,
+      title: "83 – Yesu Osiep Malong'o",
+      author: "Mary Anne Shorey",
+    },
+    {
+      id: 84,
+      title: "84 – Kaparo Yath Mar Kalwari",
+      author: "Isaac Watts",
+    },
+    {
+      id: 85,
+      title: "85 – Tiuru, Tiuru",
+      author: "Fanny Crosby",
+    },
+    {
+        id: 86,
+        title: "86 – Wan Wamor Kwatiyo Ni Ruoth Yesu",
+        author: "William A. Ogden",
+    },
+    {
+        id: 87,
+        title: "87 – Jokeyo Ni Kanye?",
+        author: "Eben Eugine Rexford",
+    },
+    {
+        id: 88,
+        title: "88 – E Dho Wath Man Loka Nam",
+        author: "Isaiah Baltzel",
+    },
+    {
+        id: 89,
+        title: "89 – En Madhiyo Tich Gi Chandruok",
+        author: "Thomas Hastings",
+    },
+    {
+        id: 90,
+        title: "90 – Winjuru Sigandwa Miwuoro",
+        author: "James M. Gray",
+    },
+    {
+        id: 91,
+        title: "91 – Nitie Luong Mobiro E Wi Apaka",
+        author: "Chas H. Gabriel",
+    },
+    {
+        id: 92,
+        title: "92 – Bende Ipuonjo Ji Wach Nyasaye?",
+        author: "Palmer Hartsough",
+    },
+    {
+        id: 93,
+        title: "93 – Teche Duto Onego Liel",
+        author: "F. E. Belden",
+    },
+    {
+        id: 94,
+        title: "94 – Yesu Kristo Odwaro Walame",
+        author: "Thomas Hastings",
+    },
+    {
+        id: 95,
+        title: "95 – Jarit, Go Tung' Mar Injili",
+        author: "Henry Gilmour",
+    },
+    {
+        id: 96,
+        title: "96 – Dhiuru, Jokristo",
+        author: "Sabine Baring-Gould",
+    },
+    {
+        id: 97,
+        title: "97 – Chunya, Mondo Ichiew Koro",
+        author: "Philip Doddridge",
+    },
+    {
+        id: 98,
+        title: "98 – Jo Maler Mag Nyasaye",
+        author: "John Wade's Cantus Diversi",
+    },
+    {
+        id: 99,
+        title: "99 – Chunya, Mond' Iritri",
+        author: "George Heath",
+    },
+    {
+        id: 100,
+        title: "100 – Ok Ageno Gimoro Ngang",
+        author: "Edward Mote",
+    },
+    {
+        id: 101,
+        title: "101 – Chunguru Matek Kuom Ruoth",
+        author: "C. R. BlackHall",
+    },
+    {
+        id: 102,
+        title: "102 – Rituru, Lemuru",
+        author: "Robert Lowry",
+    },
+    {
+        id: 103,
+        title: "103 – Chungi, Jakristo, Ruodha",
+        author: "William F. Sherwin",
+    },
+    {
+        id: 104,
+        title: "104 – Waged E Lwanda Mangima",
+        author: "Frankline E. Belden",
+    },
+    {
+        id: 105,
+        title: "105 – Awuotho Kachiko Polo",
+        author: "Charles Hutchinson Gabriel",
+    },
+    {
+        id: 106,
+        title: "106 – Jarito Mar Dala Zayun",
+        author: "Sydney S. Brewer",
+    },
+    {
+        id: 107,
+        title: "107 – In Migeno Chamo Mwandu Me Polo",
+        author: "Lowell Mason",
+    },
+    {
+        id: 108,
+        title: "108 – Un Jorit Mar Dala Zayun",
+        author: "Thomas Hastings",
+    },
+    {
+        id: 109,
+        title: "109 – Nyaka Karang'o Ruodhwa",
+        author: "James G. Deck",
+    },
+    {
+        id: 110,
+        title: "110 – Kristo En Jatelowa",
+        author: "Mrs. Frank A. Breck",
+    },
+    {
+        id: 111,
+        title: "111 – Wakwayi, Ruoth, Kuom Tekoni",
+        author: "William H. Bathurs",
+    },
+    {
+        id: 112,
+        title: "112– Keduru Jo Ka Yesu",
+        author: "George Duffield",
+    },
+    {
+        id: 113,
+        title: "113 – Yaye Mad Abed Gi Yie Chutho",
+        author: "UnknWilliam Hiley Bathurstown",
+    },
+    {
+        id: 114,
+        title: "114 – Jakristo We Nindo",
+        author: "Frances James Crosby",
+    },
+    {
+        id: 115,
+        title: "115 – Be An Jarit Msalaba",
+        author: "Isaac Watts",
+    },
+    {
+        id: 116,
+        title: "116 – Biuru, Jo Nyasaye",
+        author: "Isaac Watts",
+    },
+    {
+        id: 117,
+        title: "117 – Nitie Lweny Mager Ahinya",
+        author: "William C. Martin",
+    },
+    {
+        id: 118,
+        title: "118 – Ndalo Auchiel Oserumo",
+        author: "Joseph Stennett",
+    },
+    {
+        id: 119,
+        title: "119 – Sabato Mari, Ruoth",
+        author: "Unknown",
+    },
+    {
+        id: 120,
+        title: "120 – Ruoth, Wabiro Iri",
+        author: "Fanny Crosby",
+    },
+    {
+        id: 121,
+        title: "121 – Mokwongo Ruodhwa Yesu",
+        author: "F. E. Belden",
+    },
+    {
+        id: 122,
+        title: "122 – Kidira Chieng' Mar Yueyo",
+        author: "Christopher Wordswort",
+    },
+    {
+        id: 123,
+        title: "123 – In Skul Marwa Mar Sabato",
+        author: "C. R. Blackall",
+    },
+    {
+        id: 124,
+        title: "124 – Walamo Nyasaye Tinde",
+        author: "John Newton",
+    },
+    {
+        id: 125,
+        title: "125 – E Ndaloni Maler Mar Ruoth",
+        author: "Eliza Lee Follen",
+    },
+    {
+        id: 126,
+        title: "126 – Kidich Nyasaye",
+        author: "Unknown",
+    },
+    {
+        id: 127,
+        title: "127 – Nyasaye Gwedh Skundwa Mar Sabato",
+        author: "Priscilla J. Owens",
+    },
+    {
+        id: 128,
+        title: "128 – Ndalo Mamor",
+        author: "Roswell F. Cottrel",
+    },
+    {
+        id: 129,
+        title: "129 – In Odira Mar Nyasayeo",
+        author: "Ignaz J. Pleyel",
+    },
+    {
+        id: 130,
+        title: "130 – Wachokore Gi Mor Tinde",
+        author: "William B. Bradbury",
+    },
+    {
+        id: 131,
+        title: "131 – Nyasaye, Gokiny Mond' Iwinja",
+        author: "Isaac Watts",
+    },
+    {
+        id: 132,
+        title: "132 – Wago Ni Ruoth Erokamano",
+        author: "Bartholomaus Gesius",
+    },
+    {
+        id: 133,
+        title: "133 – Bedi Kod An",
+        author: "Henry Francis Lyte",
+    },
+    {
+        id: 134,
+        title: "134 – Wang' Chieng Koro Podhonwa",
+        author: "Mary A. Lathbury",
+    },
+    {
+        id: 135,
+        title: "135 – Yesu, In Ma Jahoch Mar Chuny",
+        author: "John Keble",
+    },
+    {
+        id: 136,
+        title: "136 – Puothe Chiek E Pinje Duto",
+        author: "J. O. Thompson",
+    },
+    {
+        id: 137,
+        title: "137 – Winji Weche Ma Nondikio",
+        author: "Helen E. Rasmussen",
+    },
+    {
+        id: 138,
+        title: "138 – Richona Diluok Gang'o?",
+        author: "UnkRobert Lowrynown",
+    },
+    {
+        id: 139,
+        title: "139 – Ringra Namiyo Inwa",
+        author: "Frances R. Havergal",
+    },
+    {
+        id: 140,
+        title: "140 – Adwaro Manyo Rombea",
+        author: "William A. Ogden",
+    },
+    {
+        id: 141,
+        title: "141 – Yesu Oluongoi Mondo Ibi",
+        author: "George Coles Stebbins",
+    },
+    {
+        id: 142,
+        title: "142 – Nitie Wendo E Dhoot",
+        author: "Edwin Othello Excell",
+    },
+    {
+        id: 143,
+        title: "143 – Yesu Oluongowa Koro",
+        author: "Will L. Thompson",
+    },
+    {
+        id: 144,
+        title: "144 – Nawinjo Yesu Kowach",
+        author: "Horatius Bonar",
+    },
+    {
+        id: 145,
+        title: "145 – Yesu Jakwath Madieri",
+        author: "William A. Ogden",
+    },
+    {
+        id: 146,
+        title: "146 – Winji Dwond Yesu Kawuono",
+        author: "Daniel March",
+    },
+    {
+        id: 147,
+        title: "147 – Wasewinjo Wach Maber",
+        author: "William James Kirkpatrick",
+    },
+    {
+        id: 148,
+        title: "148 – Ng'a Mowinjo Dwond Ruoth",
+        author: "Philip Paul Bliss",
+    },
+    {
+        id: 149,
+        title: "149 – Dhoranga Polo Yawore",
+        author: "Lydia O. Baxter",
+    },
+    {
+        id: 150,
+        title: "150 – Jathieth Maduong' Osudo Ka",
+        author: "William Hunter",
+    },
+    {
+        id: 151,
+        title: "151 – Richo Oketho Ji Malit",
+        author: "John Stockton",
+    },
+    {
+        id: 152,
+        title: "152 – Yesu Okadho",
+        author: "Frankline E. Belden",
+    },
+    {
+        id: 153,
+        title: "153 – Ngima Machiek Mawango!",
+        author: "William James Kirkpatrick",
+    },
+    {
+        id: 154,
+        title: "154 – Yie Yesu Odonj E Chunyi",
+        author: "Leila N. Morris",
+    },
+    {
+        id: 155,
+        title: "155 – Be Iseyudo Jawar Maber?",
+        author: "Ida L. Reed",
+    },
+    {
+        id: 156,
+        title: "156 – Bi Ka Yesu",
+        author: "Edward Payson Hammond",
+    },
+    {
+        id: 157,
+        title: "157 – Winji Jawar Ni E Dhoot",
+        author: "L. H. Parthmore",
+    },
+    {
+        id: 158,
+        title: "158 – Un Jo Mojony, Biuru",
+        author: "W. Chatterton Dix",
+    },
+    {
+        id: 159,
+        title: "159 – Chungo E Adiera Kaka Daniel",
+        author: "Philip P. Bliss",
+    },
+    {
+        id: 160,
+        title: "160 – Nitie Remo Ma Nochwer",
+        author: "William Cowper",
+    },
+    {
+        id: 161,
+        title: "161 – Ruoth Yesu, Agomobo Bedo Ng'ati",
+        author: "James Nicholson",
+    },
+    {
+        id: 162,
+        title: "162 – Abiro Ni Msalaba",
+        author: "Wiliam Gustavus Fischer",
+    },
+    {
+        id: 163,
+        title: "163 – Agombo Bedo Gi Ruodha",
+        author: "F. H. Byshe",
+    },
+    {
+        id: 164,
+        title: "164 – Analu Bang' Yesu",
+        author: "Elisha Albright Hoffman",
+    },
+    {
+        id: 165,
+        title: "165 – Asebayo Mabor Kod Ruoth",
+        author: "William J. Kirkpatrick",
+    },
+    {
+        id: 166,
+        title: "166 – Jawar Owachona",
+        author: "Elvira M. Hall",
+    },
+    {
+        id: 167,
+        title: "167 – Yesu, Kar Msalabani",
+        author: "Fanny J. Crosby",
+    },
+    {
+        id: 168,
+        title: "168 – Duto Amiyo Ruoth Yesu",
+        author: "J. W. VenDeVenter",
+    },
+    {
+        id: 169,
+        title: "169 – Yesu Luongi, We Ting'ni Mar Richo",
+        author: "Lewis P. Jones",
+    },
+    {
+        id: 170,
+        title: "170 – Nitie Ng'Ama Noyie Tho Mondo Owara",
+        author: "Mrs. Frank A. Breck",
+    },
+    {
+        id: 171,
+        title: "171 – In Kiol Nikech Chandruok",
+        author: "Jeremiah Eames Rankin",
+    },
+    {
+        id: 172,
+        title: "172 – Nitie Ngima Kwang'Iyo Msalaba",
+        author: "Franklin E. Belden",
+    },
+    {
+        id: 173,
+        title: "173 – Ka Satan Otemi",
+        author: "Edwin Othello Excell",
+    },
+    {
+        id: 174,
+        title: "174 – Anayie Ruoth Yesu Kende",
+        author: "George C. Stebbins",
+    },
+    {
+        id: 175,
+        title: "176 – Nyasaye Noolnwa Gweth Polo",
+        author: "Daniel W. Whittle",
+    },
+    {
+        id: 177,
+        title: "177 – Ka Chandruok Osudo Machiegni Kodi",
+        author: "Irvin H. Mack",
+    },
+    {
+        id: 178,
+        title: "178 – Beduru Gi Yie",
+        author: "Unknown",
+    },
+    {
+        id: 179,
+        title: "179 – Chunyi Dich Nikech Parruok",
+        author: "Mary D. James",
+    },
+    {
+        id: 180,
+        title: "180 – Un Muhero Ruodh Polo",
+        author: "George Burder",
+    },
+    {
+        id: 181,
+        title: "181 – Nyasaye Ni Lerna",
+        author: "James L. Nicholson",
+    },
+    {
+        id: 182,
+        title: "182 – Koro Wagenoi",
+        author: "Ray Palmerr",
+    },
+    {
+        id: 183,
+        title: "183 – Ang'eyo Wuonwa Ong'eyo",
+        author: "Sarepta M. I. Henry",
+    },
+    {
+        id: 184,
+        title: "184 – Kat' Abed Jaketh Maduong",
+        author: "Will L. Thompson",
+    },
+    {
+        id: 185,
+        title: "185 – Adwari Saa Duto",
+        author: "Annie S. Hawks",
+    },
+    {
+        id: 186,
+        title: "186 – Kata Ka Abedo Gi Ngima Mabe",
+        author: "Horratio G. Spafford",
+    },
+    {
+        id: 187,
+        title: "187 – Kwawuotho Gi Ruodhwa",
+        author: "J. H. Sammis",
+    },
+    {
+        id: 188,
+        title: "188 – An Ayie Ruoth Yesu Kende",
+        author: "Louisa M. Stead",
+    },
+    {
+        id: 189,
+        title: "189 – Yesu Kristo En Osiepwa",
+        author: "Charles Crozat Converse",
+    },
+    {
+        id: 190,
+        title: "190 – Ruoth, Ok Akwayoi Tinde",
+        author: "Ernest R. Wilberforce",
+    },
+    {
+        id: 191,
+        title: "191 – Ruoth En E Jakwadh",
+        author: "Francis Rous",
+    },
+    {
+        id: 192,
+        title: "192 – Tim Kinda Mar Lemo",
+        author: "W. D. Longstaff",
+    },
+    {
+        id: 193,
+        title: "193 – Winj Weche Ma Yesu Nowacho",
+        author: "Unknown",
+    },
+    {
+        id: 194,
+        title: "194 – Wuothi E Ler Mar Ruoth Nyasaye",
+        author: "Unknown",
+    },
+    {
+        id: 195,
+        title: "195 – Ka Yesu Ni Koda",
+        author: "Jessie H. Brown",
+    },
+    {
+        id: 196,
+        title: "196 – Yesu En Osiep Maber Chutho",
+        author: "Peter P. Bilhorn",
+    },
+    {
+        id: 197,
+        title: "197 – Owadwa Kik Iluor",
+        author: "John Wesley",
+    },
+    {
+        id: 198,
+        title: "198 – Yesu Ni Jakwadha",
+        author: "Unknown",
+    },
+    {
+        id: 199,
+        title: "199 – Ruoth Yesu, Saa Mar Lamoi",
+        author: "William W. Walford",
+    },
+    {
+        id: 200,
+        title: "200 – Saa Mar Lemo Mogwedhi",
+        author: "Fanny J. Crosby",
+    },
+    {
+        id: 201,
+        title: "201 – Analu Bang'i Jakonya",
+        author: "James Lawson Elginburg",
+    },
+    {
+        id: 202,
+        title: "202 – Weruru Weche Mag Nyasaye",
+        author: "Philip P. Bliss",
+    },
+    {
+        id: 203,
+        title: "203 – To Kak Abet Yesu Kawa",
+        author: "Charlotte Elliot",
+    },
+    {
+        id: 204,
+        title: "204 – Awinjo Dwondi Male",
+        author: "Lewis Hartsough",
+    },
+    {
+        id: 205,
+        title: "205 – An Ni Mari Ruoth",
+        author: "Fanny J. Crosby",
+    },
+    {
+        id: 206,
+        title: "206 – Kaw Piny Duto Miya Yesu",
+        author: "Fanny J. Crosby",
+    },
+    {
+        id: 207,
+        title: "207 – Kaw Ngimana",
+        author: "Henri Abraham Cesar Malan",
+    },
+    {
+        id: 208,
+        title: "208 – Bedi Mangima Kuoma",
+        author: "Frances R. Havergal",
+    },
+    {
+        id: 209,
+        title: "209 – Ywaya Machiegni Buti, Ruodha",
+        author: "E. W. Chapman",
+    },
+    {
+        id: 210,
+        title: "210 – Diyie Dak Kod Yesu",
+        author: "Cyrus S. Nusbaum",
+    },
+    {
+        id: 211,
+        title: "211 – Aseweyo Tich Maricho",
+        author: "unkHenry Francis Lytenown",
+    },
+    {
+        id: 212,
+        title: "212 – Adwaro Bedo Nyathi Yesu",
+        author: "Franklin E. Belden",
+    },
+    {
+        id: 213,
+        title: "213 – Teko Nyasaye Orit",
+        author: "Edith G. Cherry",
+    },
+    {
+        id: 214,
+        title: "214 – Asebayo Mabor Kodi Ruodha",
+        author: "unknown",
+    },
+    {
+        id: 215,
+        title: "215 – Isedwaro Yuweyo Kod Yie Momedore",
+        author: "Elisha Albright Hoffman",
+    },
+    {
+        id: 216,
+        title: "216 – Mana Kak' Abet Abironi",
+        author: "unknown",
+    },
+    {
+        id: 217,
+        title: "217 – Wuora, Atang'Oni Lueta",
+        author: "Charles Wesley",
+    },
+    {
+        id: 218,
+        title: "218 – O Yesu, An Adwaro",
+        author: "John E. Bode",
+    },
+    {
+        id: 219,
+        title: "219 – Weche Mag Mirima",
+        author: "Horatio R. Palmer",
+    },
+    {
+        id: 220,
+        title: "220 – Otelona!",
+        author: "J.H. Gilmore",
+    },
+    {
+        id: 221,
+        title: "221 – Adwaro Bet Buti!",
+        author: "Sarah F. Adams",
+    },
+    {
+        id: 222,
+        title: "222 – Paro Achiel Mamit",
+        author: "Phoebe Cary",
+    },
+    {
+        id: 223,
+        title: "223 – Onego Abed Gi Yesu",
+        author: "Fanny Crosby",
+    },
+    {
+        id: 224,
+        title: "224 – Ruoth Ni Koda E Yo Duto",
+        author: "Fanny J. Crosby",
+    },
+    {
+        id: 225,
+        title: "225 – Telna O Yaye Ruoth Jehova",
+        author: "William Williams",
+    },
+
+    {
+        id: 226,
+        title: "226 – Yesu Kotaya Pile",
+        author: "William Howard Doane",
+    },
+    {
+        id: 227,
+        title: "227 – Be Yesu Ling'?",
+        author: "Frank E. Graeff",
+    },
+    {
+        id: 228,
+        title: "228 – Ka Yembe Mag Kuyo Luora",
+        author: "James Rowe",
+    },
+    {
+        id: 229,
+        title: "229 – Jawar Telna Kik Alal",
+        author: "Frank M. Davis",
+    },
+    {
+        id: 230,
+        title: "230 – Ka Chandruok Mar Piny Ochopo",
+        author: "Mary Elizabeth Servoss",
+    },
+    {
+        id: 231,
+        title: "unknown",
+        author: "William C. Martin",
+    },
+    {
+        id: 232,
+        title: "232 – In Wang'yorwa",
+        author: "George W. Doane",
+    },
+    {
+        id: 233,
+        title: "233 – Yesu Onindo E Jasi",
+        author: "Mary A. Baker",
+    },
+    {
+        id: 234,
+        title: "234 – Yesu Obiro Ka Kendo",
+        author: "Franklin E. Belden",
+    },
+    {
+        id: 235,
+        title: "235 – Wuoth Pod Odong' Marom Nade?",
+        author: "Annie R. Smith",
+    },
+    {
+        id: 236,
+        title: "236 – Gin Weche Mamit Ma Jakristo Winjo",
+        author: "Bonie Eloise",
+    },
+    {
+        id: 237,
+        title: "237 – Jo Maler Duto, Rituru",
+        author: "Phoebe Palmer",
+    },
+    {
+        id: 238,
+        title: "238 – Gouru Bu, Goyeuru Matek",
+        author: "Jessie E. Strout",
+    },
+    {
+        id: 239,
+        title: "239 – Chieng'no Odwaro Yawore",
+        author: "S. J. Graham",
+    },
+    {
+        id: 240,
+        title: "240 – Singruok Maber Ngang'",
+        author: "F. E. Belden",
+    },
+    {
+        id: 241,
+        title: "241 – Ok Wang'eyo Saa Ma Nobie",
+        author: "William H. Pontius",
+    },
+    {
+        id: 242,
+        title: "242 – Mor Ni Jopiny",
+        author: "Isaac Watts",
+    },
+    {
+        id: 243,
+        title: "243 – Dong Iikri Romo Ni Ruoth?",
+        author: "R. E. Hudso",
+    },
+    {
+        id: 244,
+        title: "244 – Ne! Obiro E Koth Polo!",
+        author: "John Cennick",
+    },
+    {
+        id: 245,
+        title: "245 – Di Po Ka Nobed Saa",
+        author: "H. L. Turner",
+    },
+    {
+        id: 246,
+        title: "246 – Yesu Nobi Ka Kendo",
+        author: "Franklin E. Belden",
+    },
+    {
+        id: 247,
+        title: "247 – Keyo Mar Pinyni",
+        author: "F. E. Belden",
+    },
+    {
+        id: 248,
+        title: "248 – Chieng' Ma Bu Mar Nyasachwa Noyuagi",
+        author: "J. M. Black",
+    },
+    {
+        id: 249,
+        title: "unkno249 – Ruodha, Ok Agomb Mokown",
+        author: "Mary A. Kidder",
+    },
+    {
+        id: 250,
+        title: "250 – Ruodhwa Yesu Oseluongowa",
+        author: "J. E. Lando",
+    },
+    {
+        id: 251,
+        title: "251 – Ka Jabura Nong'ad Buchwa",
+        author: "F.E. Belden",
+    },
+    {
+        id: 252,
+        title: "252 – Ndalo Maduong' Biro",
+        author: "Will L. Thompson",
+    },
+    {
+        id: 253,
+        title: "253 – Koro Kawuono, Ruodhwa Man E Polo",
+        author: "Franklin E. Belden",
+    },
+    {
+        id: 254,
+        title: "254 – Ok Wang'eyo Saa",
+        author: "F. E. Belden",
+    },
+    {
+        id: 255,
+        title: "255 – Ka Tichwa Oserumo",
+        author: "John Ellerto",
+    },
+    {
+        id: 256,
+        title: "256 – Ka Yesu Ochoko Ji Duto",
+        author: "Harriet B. McKeever",
+    },
+    {
+        id: 257,
+        title: "257 – Ka Boche Polo Oyawo E Wi Gode Mabeyo",
+        author: "Annie H. Barker",
+    },
+    {
+        id: 258,
+        title: "258 – Anane Wang' Yesu Kristo",
+        author: "Mrs. Frank A. Breck",
+    },
+    {
+        id: 259,
+        title: "258 – Anane Wang' Yesu Kristo",
+        author: "Mrs. Frank A. Brec",
+    },
+    {
+        id: 259,
+        title: "259 – Wanachokre E Aora?",
+        author: "Robert Lowry",
+    },
+    {
+        id: 260,
+        title: "260 – Ka Tichna Oserum",
+        author: "Fanny Crosby",
+    },
+    {
+        id: 261,
+        title: "261 – Dalawa Man Malo",
+        author: "Frank M. Davis",
+    },
+    {
+        id: 262,
+        title: "262 – Ndalo Duto Ma An E Piny",
+        author: "Samuel Stennett",
+    },
+    {
+        id: 263,
+        title: "263 – Ji Noyud Mor Ka Tich Orumo",
+        author: "Frankline Edson Belden",
+    },
+    {
+        id: 264,
+        title: "264 – Nitie Piny M'Oro Maber Chutho",
+        author: "S.F. Bennett",
+    },
+    {
+        id: 265,
+        title: "265 – Adwaro Bedo But Pi Ngima",
+        author: "Frank E. Belden",
+    },
+    {
+        id: 266,
+        title: "266 – E Pinyno Maber Manyien",
+        author: "John R. Clements",
+    },
+    {
+        id: 267,
+        title: "267 – Ka Tichna Rumo",
+        author: "Chas. H. Gabriel",
+    },
+    {
+        id: 268,
+        title: "268 – Wawinjo Mar Dala Maler",
+        author: "Elizabeth  K. Mills",
+    },
+    {
+        id: 269,
+        title: "269 – Pinyni Ok Thurwa Mwageno",
+        author: "Thomas Kelly",
+    },
+    {
+        id: 270,
+        title: "270 – Un Jowuoth To Udhi Kanye?",
+        author: "Anny Crosby",
+    },
+    {
+        id: 271,
+        title: "271 – Anarwak Osimb Dhahabu",
+        author: "unknown",
+    },
+    {
+        id: 272,
+        title: "272 – Asewinjo Wach Piny",
+        author: "James C. Moore",
+    },
+    {
+        id: 273,
+        title: "273 – Aparo Koro Kuom Pinyno Maber",
+        author: "Lillian Jackson",
+    },
+    {
+        id: 274,
+        title: "274 – E Loka Nam",
+        author: "unknown",
+    },
+    {
+        id: 275,
+        title: "275 – Ageno Wanarom",
+        author: "Emma Pitt",
+    },
+    {
+        id: 276,
+        title: "276 – Ka Wa",
+        author: "Eliza E. Hewitt",
+    },
+    {
+        id: 277,
+        title: "277 – Ase Chop' E Piny Mar Mwandu",
+        author: "Edgar P. Stities",
+    },
+    {
+        id: 278,
+        title: "278 – Nitie Ber Kuonde Duto",
+        author: "John H. McNaughton",
+    },
+    {
+        id: 279,
+        title: "279 – Nyasaye Nomiyo Adam Jakony",
+        author: "John Keble",
+    },
+    {
+        id: 280,
+        title: "280 – Wamor Kwaromo Kod Osiepe",
+        author: "Ms. E. W. Chapman",
+    },
+    {
+        id: 281,
+        title: "281 – Nindo Kuom Yesu",
+        author: "Margaret McKay",
+    },
+    {
+        id: 282,
+        title: "282 – Yesu Rembi Ma Nosechwer",
+        author: "Phoebe Palmer Knapp",
+    },
+    {
+        id: 283,
+        title: "283 – Yesu, Wabiro Iri",
+        author: "William A. Ogden",
+    },
+    {
+        id: 284,
+        title: "284 – Ruodha Dak Ipogna Kuon Mar Ngima",
+        author: "Mary A. Lathbary",
+    },
+    {
+        id: 285,
+        title: "285 – Yesu Ruoth, Nisethona",
+        author: "Augustus M. Toplady",
+    },
+    {
+        id: 286,
+        title: "286 – Winjuru Tinde Dwond Jakwath",
+        author: "Alexcenah Thomas",
+    },
+    {
+        id: 287,
+        title: "287 – Wabiro Iri, Yesu",
+        author: "unknown",
+    },
+    {
+        id: 288,
+        title: "288 – Hera Mamiyowa Mor",
+        author: "Frankline E. Belden",
+    },
+    {
+        id: 289,
+        title: "289 – An Amor Ngang'",
+        author: "Philip Paul Bliss",
+    },
+    {
+        id: 290,
+        title: "290 – Yesu, In Osiep Nyithindo",
+        author: "Walter J. Mathams",
+    },
+    {
+        id: 291,
+        title: "291 – Anayie Ruoth Yesu Koro",
+        author: "Mrs. L. M. B. Bateman",
+    },
+    {
+        id: 292,
+        title: "292 – Yesu Ma Ni Malo",
+        author: "Harriet B. McKeever",
+    },
+    {
+        id: 293,
+        title: "293 – Yesu Ka Noa Malo",
+        author: "J. H. Hall",
+    },
+    {
+        id: 294,
+        title: "294 – Wan Nyithind Ruodhwa Yesu",
+        author: "unknown",
+    },
+    {
+        id: 295,
+        title: "295 – Luetega Noti Tich Mar Ruoth Yesu",
+        author: "Wiliam A. Ogden",
+    },
+    {
+        id: 296,
+        title: "296 – Chon Nyithindo Nower Wer Mamit",
+        author: "Franklin E. Belden",
+    },
+    {
+        id: 297,
+        title: "297 – Ruodha, Dak Imiya Tich",
+        author: "Jessie Brown Pounds",
+    },
+    {
+        id: 298,
+        title: "298 – Winjuru Yuak Senti",
+        author: "Fideliah H. DeWitt",
+    },
+    {
+        id: 299,
+        title: "299 – Nende Aluoko Lueta",
+        author: "L. M. Bateman",
+    },
+    {
+        id: 300,
+        title: "300 – Yesu, Analu Bang'i",
+        author: "Lucinda B. Bateman",
+    },
+    {
+        id: 301,
+        title: "301 – Yesu 'Hera, Ang'eyo",
+        author: "Anna B. Warner",
+    },
+    {
+        id: 302,
+        title: "302 – Yesu 'Biro",
+        author: "William Cushing",
+    },
+    {
+        id: 303,
+        title: "303 – Nysaye Oneno Ka Winyo Odwaro Gore Piny",
+        author: "Maria Straub",
+    },
+    {
+        id: 304,
+        title: "304 – Ahero Ahinya Mar Chopo E Skul Mar Sabato",
+        author: "unknown",
+    },
+    {
+        id: 305,
+        title: "305 – Nyasachwa Nochweyo Gik Moko Duto",
+        author: "unknown",
+    },
+    {
+        id: 306,
+        title: "306 – Pakeuru, Un Nyithindo",
+        author: "Chester G. Allen",
+    },
+    {
+        id: 307,
+        title: "307 – Bedo Gi Yesu E Dala, Mano Mor Maduong'",
+        author: "unknown",
+    },
+    {
+        id: 308,
+        title: "308 – Nogola E Bugo",
+        author: "Henry J. Zelly",
+    },
+    {
+        id: 309,
+        title: "309 – Yiengri Kuom Ruoth Yesu",
+        author: "Lewis E. Jones",
+    },
+    {
+        id: 310,
+        title: "310 – Nitie Kamaber Mar Yweyo",
+        author: "Cleland Boyd McAfee",
+    },
+    {
+        id: 311,
+        title: "311 – Ruoth Nyasacha",
+        author: "Stuart K. Hine",
+    },
+    {
+        id: 312,
+        title: "312 – Chungo E Singo Mar Nyasaye",
+        author: "R. Kelso Carter",
+    },
+    {
+        id: 313,
+        title: "313 – Wachiegni Dhi Dala",
+        author: "Eliza E. Hewitt",
+    },
+    {
+        id: 314,
+        title: "314 – Ruodha Telna",
+        author: "John Newman",
+    },
+    {
+        id: 315,
+        title: "315 – In Koso An",
+        author: "James McGranahan",
+    },
+    {
+        id: 316,
+        title: "316 – Yesu Kristo Osechier",
+        author: "Charles Wesley",
+    },
+    {
+        id: 317,
+        title: "317 – Kik Chunyi A Kat' E Chandruok",
+        author: "Civilla D. Martin",
+    },
+    {
+        id: 318,
+        title: "318 – Nitie Kamaber Mar YweyoYie Mar Kwerewa",
+        author: "Fredrick W. Faber",
+    },
+    {
+        id: 319,
+        title: "319 – Ywaya Iri, Ruoth",
+        author: "Fanny J. Crosby",
+    },
+    {
+        id: 320,
+        title: "320 – Ok An Kenda Ngang'",
+        author: "Ludie Carryington Day Picket",
+    },
+    {
+        id: 321,
+        title: "321 – E Chunya Awinjo Wer Mamit",
+        author: "Elton Menno Loth",
+    },
+    {
+        id: 322,
+        title: "322 – Yesu, Yesu, Yesu",
+        author: "unknown",
+    },
+    {
+        id: 323,
+        title: "323 – Luwo, Luwo, Analu Bang' Yesu",
+        author: "Robert Lowry",
+    },
+    {
+        id: 324,
+        title: "324 – Anatimu Joyuwa Ji",
+        author: "unknown",
+    },
+    {
+        id: 325,
+        title: "325 – An Achamo Kuon Mar Ngima Adier",
+        author: "May Agnew Stephens",
+    },
+    {
+        id: 326,
+        title: "326 – E Chunya, E Chunya",
+        author: "Harry D. Clarke",
+    },
+    {
+        id: 327,
+        title: "327 – Piny Duto Dwaro Yesu",
+        author: "Benjamin A. Baur",
+    },
+    {
+        id: 328,
+        title: "328 – Nyasaye Gotienoni",
+        author: "John Leland",
+    },
+    {
+        id: 329,
+        title: "329 – Ruoth, Kwagoni Chongwa Piny",
+        author: "unknown",
+    },
+    {
+        id: 330,
+        title: "330 – Wabiro Neno Ruodhwa",
+        author: "unknown",
+    },
+    {
+        id: 331,
+        title: "331 – Wang'a E Maneno Nyasaye",
+        author: "C. C. Kerr",
+    },
+    {
+        id: 332,
+        title: "332 – Mor, Mor, Mor",
+        author: "unknown",
+    },
   ]);
 
   const [loaded] = useFonts({
