@@ -26,13 +26,23 @@ function Song({ route }) {
     stanNum3,
     stanNum4,
     stanNum5,
+    stanNum6,
+    stanNum7,
+    stanNum8,
     stanOne,
     stanTwo,
     stanThree,
     stanFour,
     stanFive,
+    stanSix,
+    stanSeven,
+    stanEight,
     stanChorus,
+    stanChorus2,
+    stanChorus3,
     chorus,
+    chorusTwo,
+    chorusThree,
   } = route.params;
 
   return (
@@ -130,6 +140,25 @@ function Song({ route }) {
             <Text
               style={{
                 fontFamily: "NovaSemiBold",
+                fontSize: 22,
+                color: "#02A676",
+              }}
+            >
+              {stanChorus2}
+            </Text>
+            <Text
+              style={{
+                fontFamily: "Mulish",
+                fontSize: 19,
+                color: "#333333",
+                fontFamily: "Nova",
+              }}
+            >
+              {chorusTwo}
+            </Text>
+            <Text
+              style={{
+                fontFamily: "NovaSemiBold",
                 fontSize: 24,
                 color: "#02A676",
               }}
@@ -145,6 +174,25 @@ function Song({ route }) {
               }}
             >
               {stanThree}
+            </Text>
+            <Text
+              style={{
+                fontFamily: "NovaSemiBold",
+                fontSize: 22,
+                color: "#02A676",
+              }}
+            >
+              {stanChorus3}
+            </Text>
+            <Text
+              style={{
+                fontFamily: "Mulish",
+                fontSize: 19,
+                color: "#333333",
+                fontFamily: "Nova",
+              }}
+            >
+              {chorusThree}
             </Text>
             <Text
               style={{
@@ -183,6 +231,63 @@ function Song({ route }) {
               }}
             >
               {stanFive}
+            </Text>
+            <Text
+              style={{
+                fontFamily: "NovaSemiBold",
+                fontSize: 24,
+                color: "#02A676",
+              }}
+            >
+              {stanNum6}
+              {"\n"}
+            </Text>
+            <Text
+              style={{
+                fontFamily: "Nova",
+                fontSize: 19,
+                color: "#333333",
+              }}
+            >
+              {stanSix}
+            </Text>
+            <Text
+              style={{
+                fontFamily: "NovaSemiBold",
+                fontSize: 24,
+                color: "#02A676",
+              }}
+            >
+              {stanNum7}
+              {"\n"}
+            </Text>
+            <Text
+              style={{
+                fontFamily: "Nova",
+                fontSize: 19,
+                color: "#333333",
+              }}
+            >
+              {stanSeven}
+            </Text>
+            <Text
+              style={{
+                fontFamily: "NovaSemiBold",
+                fontSize: 24,
+                color: "#02A676",
+              }}
+            >
+              {stanNum8}
+              {"\n"}
+            </Text>
+            <Text
+              style={{
+                fontFamily: "Nova",
+                fontSize: 19,
+                color: "#333333",
+              }}
+            >
+              {stanEight}
             </Text>
           </Text>
         </View>
